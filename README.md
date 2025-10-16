@@ -2,7 +2,7 @@
 
 This project is a simple Node.js web server designed to act as a backend for a Glance dashboard extension. It fetches tasks from the Todoist API, formats them into HTML, and serves them on different endpoints. It provides views for tasks sorted by priority and by due date, and includes functionality to mark tasks as complete.
 
-The application is built to be run securely and efficiently using Docker and Docker Compose.
+[Docker Hub](https://hub.docker.com/repository/docker/reujdon/glance-todoist)
 
 ## Installation and Running with Docker
 
